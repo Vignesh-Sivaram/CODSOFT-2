@@ -1,3 +1,3 @@
-# TIC-TAC-TOE (XO) game with AI
+# TIC-TAC-TOE (XO) game
 
 * This project demonstrates the working of Tic Tac Toe game
