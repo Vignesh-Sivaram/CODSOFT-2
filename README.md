@@ -1,4 +1,4 @@
-# TIC-TAC-TOE (XO) game
+# 3x3 TIC-TAC-TOE (XO) game
 
 * This project demonstrates the working of 3 x 3 Tic Tac Toe game, where a user can either choose to play with other user or with the computer (AI) itself.
   
